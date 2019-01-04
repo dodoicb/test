@@ -11,3 +11,8 @@ GROCERY LIST
 - Coffee
 - Milk
 - Orange Juice
+
+[TOILETRIES]
+- Soap
+- Shampoo
+- Toothpaste
