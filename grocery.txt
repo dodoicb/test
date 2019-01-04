@@ -1,0 +1,8 @@
+GROCERY LIST
+---------------
+
+[FOOD]
+- Bread
+- Butter
+- Cheese
+- Eggs
