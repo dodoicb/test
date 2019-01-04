@@ -6,3 +6,8 @@ GROCERY LIST
 - Butter
 - Cheese
 - Eggs
+
+[BEVERAGES]
+- Coffee
+- Milk
+- Orange Juice
